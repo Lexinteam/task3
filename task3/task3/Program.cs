@@ -15,6 +15,7 @@ namespace task3
 
 
 
+        //from previous
         class Calc
         {
 
